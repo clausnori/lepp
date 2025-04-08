@@ -513,7 +513,7 @@ def main():
                   <browser>
                   search("Wall Street Plummets Further as Trump Digs In on Tariffs", "google")
                   javascript("yes")
-                  extract_links(5)
+                  extract_links(20)
                   extract_text()
                   </browser>"""
     
