@@ -512,7 +512,7 @@ def main():
         text = """
                   <browser>
                   javascript("yes")
-                  search("Топ телефон", "google")
+                  search("Топ телефон", "duckduckgo")
                   extract_links(20)
                   extract_text()
                   </browser>"""
