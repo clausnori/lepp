@@ -514,7 +514,7 @@ def main():
                   search("Wall Street Plummets Further as Trump Digs In on Tariffs", "google")
                   javascript("yes")
                   extract_links(20)
-                  extract_text()
+                  extract_text() 
                   </browser>"""
     
     # Извлекаем команды браузера
